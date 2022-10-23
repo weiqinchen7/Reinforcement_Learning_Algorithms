@@ -1,2 +1,2 @@
 # Reinforcement_Learning_Algorithms
-Various Reinforcement Learning Algorithms
+This is about various state-of-the-art Reinforcement Learning Algorithms. Enjoy!
